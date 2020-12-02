@@ -1,6 +1,12 @@
 # part1
 This is a Stata do-file for outcome generation, cluster-level analysis and individual level analyses not requiring multiple imputation (Model 1)
 
+For more details, read:
+
+Analysis of tuberculosis prevalence surveys: new guidance on best-practice methods
+
+https://ete-online.biomedcentral.com/articles/10.1186/1742-7622-10-10
+
 * First created: 10 November 2013
 * Authors: B. Sismanidis & S. Floyd
 * Updated on 27 June 2014 by I. Law for Ghana TB prevalence survey
