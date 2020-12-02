@@ -1,5 +1,5 @@
 # part1
-This is a Stata do-file for outcome generation, cluster-level analysis and individual level analyses not requiring multiple imputation (model 1)
+This is a Stata do-file for outcome generation, cluster-level analysis and individual level analyses not requiring multiple imputation (Model 1)
 
 * First created: 10 November 2013
 * Authors: B. Sismanidis & S. Floyd
